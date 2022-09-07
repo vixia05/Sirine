@@ -1,0 +1,59 @@
+16-03-2021
+change :
+- profile.blade
+- ProfileController
+- DashboardController
+
+`````````````````````````````````````````````````````||`````````````````````````````````````````````````````
+17-03-2021
+add :
+- AccountsSeeder
+- PrrofileSeeder
+- PerformanceController
+
+Change :
+- DashboardController
+- footer.blade
+- migration all
+- login.blade
+- web.php
+`````````````````````````````````````````````````````||`````````````````````````````````````````````````````
+
+18-03-2021
+change :
+- Dashboard Controller
+- Performance Controller
+- Performance Blade
+- performance.JS
+- App.blade
+
+`````````````````````````````````````````````````````||`````````````````````````````````````````````````````
+
+19-03-2021
+change :
+- Profile.blade
+- navbar->hapus search & menus
+- admsidebar->ganti Nama field
+- defect js & blade -> data untuk chart
+add :
+- Profile.balde -> field sub bagian, tombol ganti password
+- performance.blade -> data untk table,
+
+`````````````````````````````````````````````````````||`````````````````````````````````````````````````````
+22-03-2021
+all chrt done.
+
+`````````````````````````````````````````````````````||`````````````````````````````````````````````````````
+
+09-03-2022
+change : 
+- All migration to new schema Clear
+
+`````````````````````````````````````````````````````||`````````````````````````````````````````````````````
+10-03-2022
+update controller dengan variable baru
+change :
+    - Dashboard Controller & View for User
+    - Data Verifikasi Add Validation
+
+

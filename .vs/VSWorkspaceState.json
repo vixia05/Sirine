@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\menu",
+    "\\vendor\\phpunit",
+    "\\vendor\\phpunit\\php-code-coverage",
+    "\\vendor\\phpunit\\php-code-coverage\\src",
+    "\\vendor\\phpunit\\php-code-coverage\\src\\Report",
+    "\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html",
+    "\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer",
+    "\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template"
+  ],
+  "SelectedNode": "\\resources\\views\\menu\\performance.blade.php",
+  "PreviewInSolutionExplorer": false
+}
